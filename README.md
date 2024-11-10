@@ -46,7 +46,7 @@
 
 ## Output
 ![Screenshot 2024-09-17 224810](https://github.com/user-attachments/assets/01852bb2-36b5-49f7-b773-d06aa237a89d)
-
+![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/b703f1f3-def1-4fd9-a9da-6b5c4d57b632)
 
 ### Name :SHREE LEKHA.S 
 ### Register Number :212223110052
